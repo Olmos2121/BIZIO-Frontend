@@ -1,3 +1,3 @@
-# React + Vite
+# BIZIO-Frontend
 
 Ecommerce de productos electronicos
